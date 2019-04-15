@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  yaoshande2.cpp
+  yaoshande2Dlg.cpp
+f:\work\实验的\yaoshande2\yaoshande2\yaoshande2dlg.cpp(187): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+f:\work\实验的\yaoshande2\yaoshande2\yaoshande2dlg.cpp(184): warning C4101: “c”: 未引用的局部变量
+  正在生成代码...
